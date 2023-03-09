@@ -1,0 +1,24 @@
+h1 {
+    color: green;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.title {
+    font-size: 48px;
+    color: lightcoral;
+    text-align: center;
+}
+
+img {
+    width: 500px;
+    height: auto;
+}
+
+li {
+    font-size: 18px;
+    color: darkblue;
+}
+
+.pages {
+    font-size: 24px;
+}
